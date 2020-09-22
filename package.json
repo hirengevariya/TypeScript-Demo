@@ -1,0 +1,23 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "Basic typescript demo",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirengevariya/TypeScript-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirengevariya/TypeScript-Demo/issues"
+  },
+  "homepage": "https://github.com/hirengevariya/TypeScript-Demo#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
